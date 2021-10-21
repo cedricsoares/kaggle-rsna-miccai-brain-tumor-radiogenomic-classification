@@ -17,3 +17,7 @@ Le [kernel Kaggle que j'ai soumis](https://www.kaggle.com/cedricsoares/tf-effici
 ## Données:
 * [Dataset](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/data) 
 
+## Contenu du repository
+* Le notebook du code commenté
+* Un rapport de travail
+* Une présentation
